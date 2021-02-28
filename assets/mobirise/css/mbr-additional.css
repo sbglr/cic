@@ -2085,11 +2085,11 @@ body {
 }
 .cid-sqd00UmZFU {
   display: flex;
-  background-image: url("../../../assets/images/background12.jpg");
+  background-image: url("../../../assets/images/mbr-1917x1920.jpg");
 }
 .cid-sqd00UmZFU .mbr-overlay {
   background-color: #353535;
-  opacity: 0.5;
+  opacity: 0;
 }
 .cid-sqd00UmZFU .content-wrap {
   padding: 5rem 1rem;
@@ -2122,6 +2122,13 @@ body {
   .cid-sqd00UmZFU .content-wrap {
     width: 100%;
   }
+}
+.cid-sqd00UmZFU .mbr-section-title {
+  color: #2c1616;
+}
+.cid-sqd00UmZFU .mbr-text,
+.cid-sqd00UmZFU .mbr-section-btn {
+  color: #2c1616;
 }
 .cid-sqcSrOLr42 {
   z-index: 1000;
